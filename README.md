@@ -12,3 +12,4 @@
 
 ### Vim
  * [Sort selected lines](vim/sort-selected-lines.md)
+ * [Wrapping text with `gq`](vim/wrapping-with-gq.md)
