@@ -1,9 +1,13 @@
 # Assorted code snippets
 
 ### Categories:
+ * [Bash](#bash)
  * [Git](#git)
  * [Vim](#vim)
 
+
+### Bash
+ * [List files by number of lines](bash/list-files-by-line-count.md)
 
 ### Git
  * [Automatically remove pyc file on branch change](git/delete-pyc-files-on-branch-change.md)
