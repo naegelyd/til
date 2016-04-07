@@ -3,6 +3,7 @@
 ### Categories:
  * [Bash](#bash)
  * [Git](#git)
+ * [Miscellaneous](#miscellaneous)
  * [Vim](#vim)
 
 
@@ -14,6 +15,8 @@
  * [Automatically remove pyc file on branch change](git/delete-pyc-files-on-branch-change.md)
  * [Update submodules on branch change](git/update-submodules-on-branch-change.md)
 
+### Miscellaneous
+ * [Check if directory exists in Makefile](misc/check-if-directory-exists-in-makefile.md)
 
 ### Vim
  * [Sort selected lines](vim/sort-selected-lines.md)
