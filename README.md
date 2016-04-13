@@ -19,5 +19,6 @@
  * [Check if directory exists in Makefile](misc/check-if-directory-exists-in-makefile.md)
 
 ### Vim
+ * [Open files listed from command](vim/open-list-of-files-from-command.md)
  * [Sort selected lines](vim/sort-selected-lines.md)
  * [Wrapping text with `gq`](vim/wrapping-with-gq.md)
