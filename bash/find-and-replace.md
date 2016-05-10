@@ -9,7 +9,7 @@ perl -p -i -e "s/old/new/g" *
 To do the search and replace recursively, something like the following will work.
 
 ```sh
-find . -name *.py -print0 | xargs -0 perl -p -i -e "s/old/new/g"
+find . -name "*.py" -print0 | xargs -0 perl -p -i -e "s/old/new/g"
 ```
 
 Or for files matching some grep query
