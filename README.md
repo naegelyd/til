@@ -10,6 +10,7 @@
 ### Bash
  * [List files by number of lines](bash/list-files-by-line-count.md)
  * [Recursive find and replace](bash/find-and-replace.md)
+ * [Find files in date/time range](bash/find-files-in-date-range.md)
 
 ### Git
  * [Automatically remove pyc file on branch change](git/delete-pyc-files-on-branch-change.md)
