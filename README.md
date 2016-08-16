@@ -12,6 +12,14 @@
  * [Recursive find and replace](bash/find-and-replace.md)
  * [Find files in date/time range](bash/find-files-in-date-range.md)
 
+### Docker
+ * Remove stopped containers:
+  * `docker rm $(docker ps -a -q)`
+ * Remove untagged images:
+  * `docker rmi $(docker images | grep "^<none>" | awk '{print $3}')`
+ * Remove unused images:
+  * `docker rmi $(docker images -q)`
+
 ### Git
  * [Automatically remove pyc file on branch change](git/delete-pyc-files-on-branch-change.md)
  * [Update submodules on branch change](git/update-submodules-on-branch-change.md)
